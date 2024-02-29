@@ -1,2 +1,3 @@
-# Diversity-and-Inclusion-Dashboard
+# Diversity and Inclusion Dashboard
+
 Excited to present my latest project—a Diversity and Inclusion Dashboard crafted during my PwC Power BI Virtual Internship. With intuitive visualizations and deep data exploration, this dashboard offers actionable insights into diversity metrics, inclusion initiatives, and workforce demographics. From tracking key performance indicators to customizing for unique organizational needs, it empowers data-driven decisions. Highlighting key insights such as gender disparities in job levels and performance ratings, it's a vital tool for fostering an inclusive workplace culture. Seamlessly integrated with existing systems, accessible to all stakeholders, and poised for continuous improvement, this dashboard drives impactful diversity and inclusion efforts.
